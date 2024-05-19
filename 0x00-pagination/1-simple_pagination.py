@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+"""return the appropriate page of the
+dataset (i.e. the correct list of rows)"""
 import csv
 import math
 from typing import List, Tuple
